@@ -22,6 +22,8 @@ jupyter notebook - ipynb file
 <img width="1187" height="417" alt="image" src="https://github.com/user-attachments/assets/64273d93-9379-4e22-894e-5cb92106c5ba" />
 
 ---
+ETL - read downloaded from S3 logs - Transform done - save to S3 via Lambda (Function as a service - ETL)
+<img width="1092" height="624" alt="image" src="https://github.com/user-attachments/assets/0f1f1ab4-36dc-4afa-ab0f-5d875279553a" />
 
 
 
