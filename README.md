@@ -29,9 +29,22 @@ ETL - read downloaded from S3 logs - Transform done - save to S3 via Lambda (Fun
 <img width="1294" height="567" alt="image" src="https://github.com/user-attachments/assets/bc7e6ec4-40bf-43e9-b649-b3564060ecc7" />
 <img width="1257" height="702" alt="image" src="https://github.com/user-attachments/assets/7dd0daa1-f875-433b-bfe9-befeef56b274" />
 <img width="1281" height="510" alt="image" src="https://github.com/user-attachments/assets/c4ee1364-6d76-436a-9b26-1123d102a5ed" />
+<img width="622" height="526" alt="image" src="https://github.com/user-attachments/assets/9aaafca7-c09e-4533-9c24-5f0847244758" />
 
 <img width="1309" height="531" alt="image" src="https://github.com/user-attachments/assets/e121fb6f-2404-4d59-8b71-7370c5a8e516" />
 
+----
+automated workflow function will be trigger whenever new is file upload in s3 - Lambda function to trigger automatically - event trigger put : support_log_ETL
 
+<img width="597" height="576" alt="image" src="https://github.com/user-attachments/assets/f935a165-50f7-4bd5-b592-41c47277878a" />
+
+
+ ----
+ingested new files in raw to fully automate the ingestion and transformation 
+<img width="978" height="535" alt="image" src="https://github.com/user-attachments/assets/cd11588d-51cb-43d2-bc4a-5f0688720054" />
+
+got timed out error in lambda increase the time to 14 mins
+<img width="1311" height="588" alt="image" src="https://github.com/user-attachments/assets/d5a916ee-5bd2-4f0b-afac-bc3180fc0cd8" />
+<img width="1205" height="568" alt="image" src="https://github.com/user-attachments/assets/e55e2268-2874-42fe-a88b-a43c84bd6d94" />
 
 
