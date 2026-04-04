@@ -22,8 +22,15 @@ jupyter notebook - ipynb file
 <img width="1187" height="417" alt="image" src="https://github.com/user-attachments/assets/64273d93-9379-4e22-894e-5cb92106c5ba" />
 
 ---
-ETL - read downloaded from S3 logs - Transform done - save to S3 via Lambda (Function as a service - ETL)
+ETL - read downloaded from S3 logs - Transform done - save to S3 via Lambda (Function as a service - ETL) file from raw to save parquet file to processed
 <img width="1092" height="624" alt="image" src="https://github.com/user-attachments/assets/0f1f1ab4-36dc-4afa-ab0f-5d875279553a" />
+
+<img width="1270" height="720" alt="image" src="https://github.com/user-attachments/assets/3cf0e8bc-556a-4000-a426-cd7752980d7a" />
+<img width="1294" height="567" alt="image" src="https://github.com/user-attachments/assets/bc7e6ec4-40bf-43e9-b649-b3564060ecc7" />
+<img width="1257" height="702" alt="image" src="https://github.com/user-attachments/assets/7dd0daa1-f875-433b-bfe9-befeef56b274" />
+<img width="1281" height="510" alt="image" src="https://github.com/user-attachments/assets/c4ee1364-6d76-436a-9b26-1123d102a5ed" />
+
+<img width="1309" height="531" alt="image" src="https://github.com/user-attachments/assets/e121fb6f-2404-4d59-8b71-7370c5a8e516" />
 
 
 
