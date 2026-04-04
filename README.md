@@ -46,5 +46,9 @@ ingested new files in raw to fully automate the ingestion and transformation
 got timed out error in lambda increase the time to 14 mins
 <img width="1311" height="588" alt="image" src="https://github.com/user-attachments/assets/d5a916ee-5bd2-4f0b-afac-bc3180fc0cd8" />
 <img width="1205" height="568" alt="image" src="https://github.com/user-attachments/assets/e55e2268-2874-42fe-a88b-a43c84bd6d94" />
+<img width="1000" height="605" alt="image" src="https://github.com/user-attachments/assets/87de0989-12f5-479f-a75b-edd576e57808" />
+<img width="1267" height="719" alt="image" src="https://github.com/user-attachments/assets/b352776b-cce4-4930-be6c-5fb3d6156635" />
 
+<img width="1127" height="405" alt="image" src="https://github.com/user-attachments/assets/c1af04eb-bfb9-465f-9945-db41ed5fa6ee" />
+<img width="1172" height="408" alt="image" src="https://github.com/user-attachments/assets/4e286206-e559-4273-b8a7-fb0bf4b4baa5" />
 
