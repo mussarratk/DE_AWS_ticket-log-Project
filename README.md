@@ -67,4 +67,15 @@ x<img width="1304" height="562" alt="image" src="https://github.com/user-attachm
 
 <img width="1316" height="467" alt="image" src="https://github.com/user-attachments/assets/957b70d9-389d-4539-ae59-6dcbaedca2e7" />
 
+---
 
+automated_etl - from visual to edit script mode
+
+<img width="1347" height="581" alt="image" src="https://github.com/user-attachments/assets/8f2ae96e-852b-484a-b891-febbc38d5808" />
+<img width="1316" height="559" alt="image" src="https://github.com/user-attachments/assets/ab0f4331-7aa8-4c6d-9452-ed594b36f390" />
+<img width="1303" height="469" alt="image" src="https://github.com/user-attachments/assets/c3162f11-e8f0-4b4f-ad7a-4bf30d1b8df4" />
+
+<img width="1298" height="549" alt="image" src="https://github.com/user-attachments/assets/5877b86f-1d17-48b5-9883-ca1593dcf18a" />
+<img width="1336" height="634" alt="image" src="https://github.com/user-attachments/assets/f2e136b9-9601-4ded-8a43-0288157f5867" />
+
+<img width="1317" height="567" alt="image" src="https://github.com/user-attachments/assets/ec5af104-57af-46d0-a45c-829b2153919e" />
