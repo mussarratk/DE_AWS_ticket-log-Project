@@ -56,6 +56,8 @@ got timed out error in lambda increase the time to 14 mins
 Project architecture
 
 ---
-Support Tickets - raw dir aws glu is an etl tool processed transformed cleaned file save as parquet in processed dir in s3
+Support Tickets - raw dir aws glu is an etl tool (visual etl/ notebook) processed transformed cleaned file save as parquet in processed dir in s3
+first - IAM - create roles - glue service need access to s3
+x<img width="1304" height="562" alt="image" src="https://github.com/user-attachments/assets/c384b02f-79d0-4837-94a1-f16ef6fea141" />
 
 
