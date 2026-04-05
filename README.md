@@ -60,4 +60,11 @@ Support Tickets - raw dir aws glu is an etl tool (visual etl/ notebook) processe
 first - IAM - create roles - glue service need access to s3
 x<img width="1304" height="562" alt="image" src="https://github.com/user-attachments/assets/c384b02f-79d0-4837-94a1-f16ef6fea141" />
 
+<img width="1313" height="498" alt="image" src="https://github.com/user-attachments/assets/bcff6214-9815-4d79-8702-d8396f44bbac" />
+<img width="1187" height="561" alt="image" src="https://github.com/user-attachments/assets/0fed6de2-1268-4918-8e25-81a9f42a54e1" />
+
+<img width="1308" height="617" alt="image" src="https://github.com/user-attachments/assets/45b1302d-a819-4b76-8bd8-923b2673d4c8" />
+
+<img width="1316" height="467" alt="image" src="https://github.com/user-attachments/assets/957b70d9-389d-4539-ae59-6dcbaedca2e7" />
+
 
