@@ -52,3 +52,10 @@ got timed out error in lambda increase the time to 14 mins
 <img width="1127" height="405" alt="image" src="https://github.com/user-attachments/assets/c1af04eb-bfb9-465f-9945-db41ed5fa6ee" />
 <img width="1172" height="408" alt="image" src="https://github.com/user-attachments/assets/4e286206-e559-4273-b8a7-fb0bf4b4baa5" />
 
+----
+Project architecture
+
+---
+Support Tickets - raw dir aws glu is an etl tool processed transformed cleaned file save as parquet in processed dir in s3
+
+
