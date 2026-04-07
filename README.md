@@ -79,3 +79,8 @@ automated_etl - from visual to edit script mode
 <img width="1336" height="634" alt="image" src="https://github.com/user-attachments/assets/f2e136b9-9601-4ded-8a43-0288157f5867" />
 
 <img width="1317" height="567" alt="image" src="https://github.com/user-attachments/assets/ec5af104-57af-46d0-a45c-829b2153919e" />
+
+
+<img width="1332" height="613" alt="image" src="https://github.com/user-attachments/assets/d7167f72-f1a4-4b83-9b37-00c0d2659c8b" />
+<img width="1330" height="547" alt="image" src="https://github.com/user-attachments/assets/76f83772-2919-4795-ba08-f97057fd6a13" />
+
