@@ -76,11 +76,16 @@ automated_etl - from visual to edit script mode
 <img width="1303" height="469" alt="image" src="https://github.com/user-attachments/assets/c3162f11-e8f0-4b4f-ad7a-4bf30d1b8df4" />
 
 <img width="1298" height="549" alt="image" src="https://github.com/user-attachments/assets/5877b86f-1d17-48b5-9883-ca1593dcf18a" />
+
 <img width="1336" height="634" alt="image" src="https://github.com/user-attachments/assets/f2e136b9-9601-4ded-8a43-0288157f5867" />
+<img width="1362" height="575" alt="image" src="https://github.com/user-attachments/assets/e1f40dfc-16f6-43cc-a61e-9dd2c34b72a4" />
 
 <img width="1317" height="567" alt="image" src="https://github.com/user-attachments/assets/ec5af104-57af-46d0-a45c-829b2153919e" />
 
 
 <img width="1332" height="613" alt="image" src="https://github.com/user-attachments/assets/d7167f72-f1a4-4b83-9b37-00c0d2659c8b" />
 <img width="1330" height="547" alt="image" src="https://github.com/user-attachments/assets/76f83772-2919-4795-ba08-f97057fd6a13" />
+<img width="1162" height="455" alt="image" src="https://github.com/user-attachments/assets/f729b04e-5bdd-476f-a7dc-3e1206818269" />
+<img width="1328" height="421" alt="image" src="https://github.com/user-attachments/assets/7cab7633-437a-4650-8715-903f3893004b" />
+<img width="1195" height="469" alt="image" src="https://github.com/user-attachments/assets/74a6ef75-1db6-4614-8e72-8c25df895820" />
 
