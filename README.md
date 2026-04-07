@@ -1,6 +1,6 @@
 # DE_AWS_ticket-log-Project
 ---
-AWS Bucket S3 - Dir : careplus_datasql -- subdir --support-logs/ -- support tickets/ - raw/ - processed/
+AWS Bucket S3 - : dir/folder - careplus_datasql -- subdir --support-logs/ -- support tickets/ - raw/ - processed/
 
 <img width="1310" height="412" alt="image" src="https://github.com/user-attachments/assets/806659ea-5f78-44e9-b6e3-657be36c33a8" />
 <img width="1314" height="527" alt="image" src="https://github.com/user-attachments/assets/94ee2d61-bd46-4f64-acaf-dc71e34fd63b" />
@@ -89,3 +89,14 @@ automated_etl - from visual to edit script mode
 <img width="1328" height="421" alt="image" src="https://github.com/user-attachments/assets/7cab7633-437a-4650-8715-903f3893004b" />
 <img width="1195" height="469" alt="image" src="https://github.com/user-attachments/assets/74a6ef75-1db6-4614-8e72-8c25df895820" />
 
+---
+aws athena - adhoc in memory query db - can preview parquet files run query on s3 processed folder
+
+<img width="1360" height="563" alt="image" src="https://github.com/user-attachments/assets/3540d3fc-06a1-4a5c-b11a-de3bc5e433d8" />
+
+<img width="1040" height="520" alt="image" src="https://github.com/user-attachments/assets/8a91b2b2-2053-494c-84e1-346b32519540" />
+<img width="1305" height="587" alt="image" src="https://github.com/user-attachments/assets/3260b3a9-41bc-43d8-9523-087fca05185c" />
+<img width="1319" height="606" alt="image" src="https://github.com/user-attachments/assets/413aa586-2e74-4169-a4e0-622e55320f99" />
+
+----
+redshift db is serverless managed data warehouse for olap - columnar storage distributed computing - Load data s3 processed from parquet file to redshift 
