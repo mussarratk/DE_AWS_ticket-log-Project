@@ -165,5 +165,3 @@ aws athena - adhoc in memory query db - can preview parquet files run query on s
 ----
 redshift db is serverless managed data warehouse for olap - columnar storage distributed computing - Load data s3 processed from parquet file to redshift 
 
-<img width="1305" height="672" alt="image" src="https://github.com/user-attachments/assets/c614ae82-0f15-45d1-82f3-fb836ba62285" />
-
