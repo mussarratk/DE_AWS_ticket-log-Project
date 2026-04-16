@@ -6,10 +6,6 @@
 
 ***
 
-This is a comprehensive project overview. To enhance it for a **GitHub README** or a **Portfolio**, I have integrated the missing technical nuances from your second text (like **CDC/UPSERT logic**, **AWS Data Wrangler**, and **S3 Event Notifications**) while polishing the professional tone. 
-
-I have also added a **"Deep Dive"** section for the incremental loading strategy, as this is a high-value skill for recruiters.
-
 ---
 
 # CarePlus: End-to-End AWS Data Engineering & BI Pipeline
