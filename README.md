@@ -2,7 +2,7 @@
 
 # End-to-End AWS Data Engineering & BI Pipeline: CarePlus Support Analytics
 
-<details>
+
 
 ***
 
@@ -34,6 +34,8 @@ The pipeline follows a modern **Medallion-inspired architecture**, moving data f
     * **Strategy:** Utilizes a **Staging-to-Production** pattern with `UPSERT` logic to maintain data integrity without full reloads.
 5.  **Visualization:**
     * **Power BI** connects to Redshift to surface KPIs via interactive dashboards.
+      
+<img width="1045" height="586" alt="image" src="https://github.com/user-attachments/assets/d5f9efe5-9408-4900-96db-bdd549f680f0" />
 
 ---
 
@@ -66,11 +68,15 @@ By utilizing **AWS Lambda** with the **AWS SDK for Pandas (formerly AWS Data Wra
 * **Volume Tracking:** Total vs. Resolved vs. Escalated tickets.
 * **Efficiency:** Average Resolution Time (ART) categorized by priority and issue type.
 * **Performance:** Agent-wise distribution and SLA compliance rates.
+  
+<img width="1023" height="494" alt="image" src="https://github.com/user-attachments/assets/02b088ff-ef9d-460a-9191-c8e9a3d26533" />
 
 ### **System Health Analytics**
 * **Reliability:** Log severity distribution (Error/Warning/Info).
 * **Performance:** Correlation between system CPU usage and support ticket spikes.
 * **Latency:** Average response time trends across different user agents.
+  
+<img width="868" height="486" alt="image" src="https://github.com/user-attachments/assets/42458648-05c8-42ba-9e2d-9e196159039f" />
 
 ---
 
